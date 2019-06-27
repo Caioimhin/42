@@ -1,0 +1,20 @@
+note : 
+
+char	ft_find_carre(char *str)
+{
+	trouver un carre;
+	save sa taille;
+	revenir au debut du tableau;
+	chercher un carre;
+	if (carre trouve)
+		comparer new_carre avec ancien_carre;
+		if (ancien carre >= new_carre)
+			continue;
+		else if (ancien_carre < new_carre)
+		{
+			sauvegarder (position new_carre) a la place de ancien_carre;
+			return (ft_find_carre);
+		}
+	else
+		return (tab);			/*fin de programme*/
+}

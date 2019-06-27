@@ -1,0 +1,6 @@
+Credentials cache: API:FDD45524-8CDE-4EDE-98A5-2815F106D87D
+        Principal: kparis@42.FR
+
+  Issued                Expires               Principal
+Jun  3 13:58:35 2019  Jun 10 13:58:35 2019  krbtgt/42.FR@42.FR
+Jun  3 14:16:02 2019  Jun 10 13:58:35 2019  host/vgs-fn1.42.fr@42.FR
